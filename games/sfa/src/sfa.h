@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: GPL-3.0-only
-// Copyright (C) 2026 two4teezee
 //
 // Street Fighter Alpha: names for what is known of the game's memory and routines, each found by experiment in
 // this game. Its variables are reached from A5 = FF8000, as in Alpha 2, but most are elsewhere: Alpha 2 is not

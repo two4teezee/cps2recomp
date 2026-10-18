@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: GPL-3.0-only
-// Copyright (C) 2026 two4teezee
 //
 // Street Fighter Alpha: free play (an optional feature: the launcher's Features page and the in-game menu switch
 // it).
